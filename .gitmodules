@@ -1,0 +1,14 @@
+[submodule "external/SDL"]
+	path = external/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "./SDL"]
+	branch = SDL2
+[submodule "external/cxxopts"]
+	path = external/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
+[submodule "external/fast-lzma2"]
+	path = external/fast-lzma2
+	url = https://github.com/conor42/fast-lzma2.git
+[submodule "external/libxmp"]
+	path = external/libxmp
+	url = https://github.com/libxmp/libxmp.git
